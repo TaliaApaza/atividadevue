@@ -1,8 +1,7 @@
 <template>
-<article>
-<h2>Página inicial</h2>
-......
-</article>
+    <article>
+        <h2>Página inicial</h2>
+    </article>
 </template>
 
 <script>

@@ -1,10 +1,13 @@
 <template>
-    <h2>Jogos View</h2>
+    <article>
+        <h1>Jogos A Dispor!!!</h1>
+        <p>Olha a marcação pedida</p>
+    </article>
 </template>
 
 <script>
 export default {
-name: 'JogosView'
+name: 'Jogos'
 }
 </script>
 
