@@ -9,7 +9,7 @@ component: HomeView
 },
 {
 path: '/jogos',
-name: 'Jogos',
+name: 'JogosView',
 component: JogosView
 }
 ]

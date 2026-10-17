@@ -7,7 +7,7 @@
 
 <script>
 export default {
-name: 'Jogos'
+name: 'JogosView'
 }
 </script>
 
