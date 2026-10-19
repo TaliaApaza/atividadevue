@@ -1,8 +1,28 @@
 <template>
-    <article>
-        <h1>Jogos A Dispor!!!</h1>
-        <p>Olha a marcação pedida</p>
-    </article>
+    <h2>Jogos Disponives</h2>
+    <section class="sugestões">
+        <div>
+            <p>Colocar um sugestão de Promoção</p>
+        </div>
+        <div>
+            <p>Colocar promoções</p>
+        </div>
+        <div>
+            <p>Colocar promoções</p>
+        </div>
+        <div>
+            <p>Colocar promoções</p>
+        </div>
+        <div>
+            <p>Colocar promoções</p>
+        </div>
+        <div>
+            <p>Colocar promoções</p>
+        </div>
+        <div>
+            <p>Colocar promoções</p>
+        </div>
+    </section>
 </template>
 
 <script>
@@ -11,9 +31,3 @@ name: 'JogosView'
 }
 </script>
 
-<style scoped>
-article {
-padding: 20px;
-text-align: center;
-}
-</style>
